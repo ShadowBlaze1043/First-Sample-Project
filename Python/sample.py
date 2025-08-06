@@ -10,7 +10,9 @@ def quick_sort(arr):
 sample_list = [12, 7, 5, 3, 8, 4, 2, 15, 10, 6, 1, 9, 13, 11, 14]
 sorted_list = quick_sort(sample_list)
 print(sorted_list)
-
+# To run this code interactively, you can use a Jupyter notebook.
+# If you are using VS Code, switch to the Jupyter extension by opening the Command Palette (Ctrl+Shift+P) and selecting "Jupyter: Create New Blank Notebook".
+# Then, copy and paste the code cells into the notebook for interactive execution.
 """
     Sorts a list of elements using the Quick Sort algorithm.
 
